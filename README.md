@@ -1,6 +1,6 @@
 # Deep Learning - Practical Project
 
-Practical Project developed as part of Deep Learning course unit.
+Practical Project developed as part of the Deep Learning course unit.
 
 **<ins> Team Members </ins>**
 * Afonso Bessa - pg53597
