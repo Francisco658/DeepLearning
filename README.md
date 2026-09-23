@@ -1,12 +1,20 @@
+# Deep Learning - Practical Project
+
+Practical Project developed as part of Deep Learning course unit.
+
+**<ins> Team Members </ins>**
+* Afonso Bessa - pg53597
+* Francisco Claudino - pg50380
+* Rui Silva - pg54213
+
+**Masters in Informatics Engineering**
+
+**University of Minho (2023/2024)**
+
+
 # Deep Learning - FitBot Project
 
 The FitBot Project consists of developing a chatbot using Ollama LLM's and the integration of RAG to create a chatbot that creates Workout and Nutritional Plans based on Scientific Studies. It also gives tips to specific exercises and meals according to the user's goals.
-
-## Team Members
-
-- **PG50380** - Francisco Claudino
-- **PG53597** - Afonso Bessa
-- **PG54213** - Rui Silva
 
 ## Index of Contents
 
